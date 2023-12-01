@@ -1,21 +1,22 @@
 [{
 
-        "img": "img/01.webp"
+        "img": "casa1.jpg",
+        "title": "casa moderna"
     },
     {
 
-        "img": "img/02.webp"
+        "img": "casa2.jpg",
+        "title": "casa americana"
     },
     {
 
-        "img": "img/03.webp"
+        "img": "casa3.jpg",
+        "title": "casa rustica"
     },
     {
 
-        "img": "img/04.webp"
-    },
-    {
-        "img": "img/05.webp"
+        "img": "casa4.jpg",
+        "title": "casa londinese"
     }
 
 

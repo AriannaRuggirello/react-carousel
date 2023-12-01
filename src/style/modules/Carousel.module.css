@@ -1,0 +1,11 @@
+.active {
+  @apply block;
+}
+
+.not-Active {
+  @apply hidden;
+}
+
+img {
+  @apply max-h-96;
+}
